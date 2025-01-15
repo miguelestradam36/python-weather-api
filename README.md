@@ -13,3 +13,9 @@ A module with a class for the request is imported into the main file and then a 
 ---
 
 If desired, you can analyze or save the information using this API.
+
+### Running a test using the CMD on Windows
+
+```
+python -m pytest tests/
+```
