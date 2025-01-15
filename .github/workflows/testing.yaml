@@ -3,9 +3,6 @@
 
 name: Python application
 
-env:
-  PYTHON_KEYRING_BACKEND: keyring.backends.null.Keyring
-
 on:
   push:
     branches: [ "main" ]
